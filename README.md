@@ -43,8 +43,8 @@ script for the FRED files and the Python script for the Yahoo file.
 See BUILD_REPORT.md for the full story.
 
 Charts live in charts/. Processed tables live in data/processed/.
-A story website version lives in docs/index.html, with chart copies in
-docs/charts/.
+A story website version lives at https://jwavalosq.github.io/Analytics-on-Finance/,
+with the same pages in docs/index.html and chart copies in docs/charts/.
 
 ## Key findings, with exact numbers
 
